@@ -1,0 +1,14 @@
+{
+  "name": "hello-by-chip",
+  "version": "1.0.0",
+  "description": "first npm public to npmjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "teerasit.art",
+  "license": "MIT"
+}
