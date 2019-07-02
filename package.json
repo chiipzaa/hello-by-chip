@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": { 
+    "type": "git",
+    "url": "git+https://github.com/chiipzaa/hello-by-chip"
+  },
   "keywords": [
     "hello"
   ],
   "author": "teerasit.art",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": { 
+    "url": "https://github.com/chiipzaa/hello-by-chip/issues"
+  },
+  "homepage": "https://github.com/chiipzaa/hello-by-chip#readme"
+  
 }
